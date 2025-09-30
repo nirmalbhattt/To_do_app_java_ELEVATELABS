@@ -1,25 +1,20 @@
 # To_do_app_java_ELEVATELABS
 
-Overview
-This project is a simple To-Do List application built using Java Swing. It allows users to add, view, and delete tasks through a graphical user interface.
+## Overview
+This project is a simple To-Do List application built using Java Swing. It enables users to add, view, and delete tasks through a graphical interface.
 
-Features
-Add new tasks using a text field and button.
+## Features
+- Add new tasks using a text field and Add button.
+- View all current tasks in a visible list.
+- Select and delete specific tasks from the list.
 
-View all current tasks in a list.
+## Technologies Used
+- Java
+- Swing (`JFrame`, `JButton`, `JTextField`, `JList`)
+- IntelliJ IDEA or Eclipse (recommended IDEs)
 
-Select and delete tasks from the list.
+## How to Run
+1. Compile both `TaskManager.java` and `ToDoApp.java`.
+2. Run the `ToDoApp` main class.
+3. Use the interface to add new tasks, view current tasks, and delete selected tasks.
 
-Technologies Used
-Java
-
-Swing (JFrame, JButton, JTextField, JList)
-
-IntelliJ IDEA or Eclipse (recommended IDEs)
-
-How to Run
-Compile TaskManager.java and ToDoApp.java.
-
-Run the ToDoApp main class.
-
-Use the input field and buttons on the GUI to manage tasks.
